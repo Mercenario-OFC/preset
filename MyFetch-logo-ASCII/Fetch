@@ -1,1 +1,41 @@
 # myfetch MyFetch - logo ASCII
+red='\e[1;31m'
+green='\e[1;32m'
+blue='\e[1;34m'
+purple='\e[1;35m'
+icyan='\e[1;36m'
+white='\e[1;37m'
+yellow='\e[1;33m' 
+
+distro="
+..............
+            ..,;:ccc,.
+          ......''';lxO.
+.....''''..........,:ld;
+           .';;;:::;,,.x,
+      ..'''.            0Xxoc:,.  ...
+  ....                ,ONkc;,;cokOdc',.
+.                   OMo           ':ddo.
+                    dMc               :OO;
+                    0M.                 .:o.
+                    ;Wd
+                     ;XO,
+                       ,d0Odlc;,..
+                           ..',;:cdOOd::,.
+                                    .:d;.':;.
+                                       'd,  .'
+                                         ;l   ..
+                                          .o
+                                            c
+                                            .'
+                                             .
+" 
+
+paste <(printf "%s" "$distro") | lolcat 
+
+echo -e "            ${green}⧏${red}=================${yellow}======${yellow}============${red}=================${green}⧐"
+echo
+echo -e ${red}"---------------------------------${icyan}{BlackNoirs}${red}------------------------------"
+echo
+echo -e "            ${green}⧏${red}=================${yellow}======${yellow}============${red}=================${green}⧐"
+echo
