@@ -35,7 +35,7 @@ paste <(printf "%s" "$distro") | lolcat
 
 echo -e "            ${green}⧏${red}=================${yellow}======${yellow}============${red}=================${green}⧐"
 echo
-echo -e ${red}"---------------------------------${icyan}{BlackNoirs}${red}------------------------------"
+echo -e ${red}"---------------------------------${icyan}{Yourname}${red}------------------------------"
 echo
 echo -e "            ${green}⧏${red}=================${yellow}======${yellow}============${red}=================${green}⧐"
 echo
