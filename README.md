@@ -1,1 +1,1 @@
-Termux-Themes 🎩
+# Termux-Themes
