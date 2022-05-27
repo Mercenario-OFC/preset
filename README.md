@@ -1,1 +1,2 @@
-# Termux-Themes
+# Meu preset, 
+localizado em meu HOME
